@@ -1,0 +1,17 @@
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\bin\Debug\net8.0-windows\DesktopNotes.exe
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\bin\Debug\net8.0-windows\DesktopNotes.deps.json
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\bin\Debug\net8.0-windows\DesktopNotes.runtimeconfig.json
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\bin\Debug\net8.0-windows\DesktopNotes.dll
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\bin\Debug\net8.0-windows\DesktopNotes.pdb
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.DesktopNotes.resources
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.Properties.Resources.resources
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.csproj.GenerateResource.cache
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.AssemblyInfoInputs.cache
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.AssemblyInfo.cs
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.csproj.CoreCompileInputs.cache
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.dll
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\refint\DesktopNotes.dll
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.pdb
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\DesktopNotes.genruntimeconfig.cache
+C:\Users\ThinkpadT460\source\repos\DesktopNotes\obj\Debug\net8.0-windows\ref\DesktopNotes.dll
